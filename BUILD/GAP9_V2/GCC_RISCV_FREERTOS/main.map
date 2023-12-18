@@ -1,0 +1,1275 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+                              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/ctors_dtors.o (symbol from plugin) (__DTOR_LIST__)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__divdi3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__udivdi3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__umoddi3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__adddf3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__divdf3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__nedf2)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__gedf2)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__ltdf2)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__muldf3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__subdf3)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__fixdfsi)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__fixunsdfsi)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__floatsidf)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+                              /tmp/cc2ZgBrR.ltrans1.ltrans.o (__floatunsidf)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+                              /tmp/cc2ZgBrR.ltrans0.ltrans.o (__extendsfdf2)
+/home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+                              /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+run_main_evt        0x50              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/pmsis_backend_native_task_api.o (symbol from plugin)
+__global_i2c_slave_itf_data
+                    0x10              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c_slave.o (symbol from plugin)
+__pi_i2c_itf_data   0x10              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c.o (symbol from plugin)
+__pi_pmu_domains_on
+                    0x4               /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/maestro/driver/maestro.o (symbol from plugin)
+cycle_network_execution
+                    0x4               /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/network.o (symbol from plugin)
+pi_exception_vector
+                    0x40              /tmp/cc2ZgBrR.ltrans0.ltrans.o
+xQueueRegistry      0x40              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/queue.o (symbol from plugin)
+pi_cluster_nb_open  0x2               /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster.o (symbol from plugin)
+aps256xxn_data      0x14              /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/spiram/aps256xxn.o (symbol from plugin)
+pi_cluster          0x2c              /tmp/cc2ZgBrR.ltrans0.ltrans.o
+__pi_i3c_itf_data   0x4               /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i3c/driver/i3c.o (symbol from plugin)
+pi_irq_handler_wrapper_vector
+                    0x80              /tmp/cc2ZgBrR.ltrans0.ltrans.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution0.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution1.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution3.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution4.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/dory_dma.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/FullyConnected6.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/mem.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/net_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/network.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/Pooling2.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/Pooling5.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_avgpool_u8_u8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_conv_i8_i8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_conv_i8_u8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_depthwise_i8_u8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_depthwise_u8_i8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_linear_u8_i32_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_i8_i8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_i8_u8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_u8_i8_i8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .cluster.text  0x0000000000000000       0xa2 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .debug_line    0x0000000000000000      0x192 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .debug_info    0x0000000000000000       0xdb /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-fc.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-fc.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-fc.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-fc.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .text.text_l2  0x0000000000000000       0x54 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .debug_line    0x0000000000000000      0x103 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .debug_info    0x0000000000000000       0xca /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .text.text_l2  0x0000000000000000       0x2c /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .debug_line    0x0000000000000000       0xc3 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .debug_info    0x0000000000000000       0xcc /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .text.text_l2  0x0000000000000000       0x3e /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .debug_line    0x0000000000000000       0xec /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .debug_info    0x0000000000000000       0xd7 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .text.text_l2  0x0000000000000000       0x3a /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .debug_line    0x0000000000000000       0xec /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .debug_info    0x0000000000000000       0xd1 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .text.text_l2  0x0000000000000000       0xb6 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .debug_line    0x0000000000000000       0xfa /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .debug_info    0x0000000000000000       0xde /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .text          0x0000000000000000        0x8 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .data          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .bss           0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .debug_line    0x0000000000000000       0x90 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .debug_info    0x0000000000000000       0xcf /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_it.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/system_gap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/driver/gap_io.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/errno.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/string.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/stdlib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2s/driver/i2s.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/dmacpy/driver/dmacpy.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/fc_event/driver/fc_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pwm/driver/pwm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pwm/driver/pwm_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/spim/driver/spim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_core/driver/udma_core.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/ffc/driver/ffc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_datamove/driver/udma_datamove.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_timeout/driver/udma_timeout.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_timestamp/driver/udma_timestamp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c_slave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i3c/driver/i3c.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/fll/driver/fll.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/efuse/driver/efuse.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/maestro/driver/maestro.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/maestro/driver/maestro_irq.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/xip/driver/xip_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pad/driver/pad.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes/driver/aes.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes/driver/aes_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes_dual_core/driver/aes_dual_core_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_cpi/driver/cpi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_cpi/driver/cpi_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_csi2/driver/csi2.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_csi2/driver/csi2_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_uart/driver/uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_uart/driver/uart_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_fifo/driver/udma_fifo.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/quiddikey/driver/quiddikey_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_team.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/uart_cl_internal.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/ctors_dtors.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/eeprom/24XX1025.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/eeprom/virtual_eeprom.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/hyperram/hyperram.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/spiram/aps256xxn.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/ram.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/alloc_extern.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/hyperflash/hyperflash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/spiflash/mx25u51245g.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/sdcard/sdcard.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/spiflash/atxp032.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/partition.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/flash_partition.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/flash_partition_v2.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/secret_storage.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/crc/md5.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/mram/mram-v2.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/himax/himax.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov5647/ov5647.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov9281/ov9281.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov9750/ov9750.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/camera.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/vfs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/lfs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/lfs_util.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/pi_lfs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/read_fs/read_fs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/host_fs/host_fs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/fs.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/ota.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/ota_utility.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/updater.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/bootloader/bootloader_utility.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/crc/crc32.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/bsp/gap9_v2.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/pi_log.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/event_kernel/event_kernel.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/mem_slab/mem_slab.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/os/device.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/os/pmsis_evt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/alloc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/alloc_pool.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/pi_malloc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/pmsis_backend_native_task_api.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/printf/printf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/list.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/queue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/tasks.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/timers.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/event_groups.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/stream_buffer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/config/FreeRTOS_util.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .debug_info    0x0000000000000000      0xad7 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .debug_abbrev  0x0000000000000000      0x1be /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .debug_line    0x0000000000000000      0x30d /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .debug_str     0x0000000000000000      0x7d1 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .comment       0x0000000000000000       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ COMMON         0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .text          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+L2_priv0         0x000000001c000004 0x000000000000fffc
+L2_priv0_aliased 0x0000000000000004 0x000000000000fffc
+L2_shared        0x000000001c010000 0x0000000000180000
+L1               0x0000000010000004 0x000000000001fffc
+L1_aliased       0x0000000000000004 0x000000000001fffc
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution0.o
+LOAD /tmp/cc2ZgBrR.ltrans0.ltrans.o
+LOAD /tmp/cc2ZgBrR.ltrans1.ltrans.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution1.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution3.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/BNReluConvolution4.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/dory_dma.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/FullyConnected6.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/main.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/mem.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/net_utils.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/network.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/Pooling2.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/Pooling5.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_avgpool_u8_u8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_conv_i8_i8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_conv_i8_u8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_depthwise_i8_u8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_depthwise_u8_i8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_linear_u8_i32_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_i8_i8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_i8_u8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/src/pulp_nn_matmul_u8_i8_i8.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-workgroup.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-fc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/freertos_task.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_it.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/system_gap.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/driver/gap_io.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/errno.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/string.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/src/stdlib.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2s/driver/i2s.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/dmacpy/driver/dmacpy.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/rtc/driver/rtc_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/fc_event/driver/fc_event.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pwm/driver/pwm.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pwm/driver/pwm_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/spim/driver/spim.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_core/driver/udma_core.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/ffc/driver/ffc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_datamove/driver/udma_datamove.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_timeout/driver/udma_timeout.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_timestamp/driver/udma_timestamp.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i2c/driver/i2c_slave.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/i3c/driver/i3c.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/fll/driver/fll.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/efuse/driver/efuse.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/maestro/driver/maestro.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/maestro/driver/maestro_irq.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/xip/driver/xip_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/pad/driver/pad.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/gpio/driver/gpio.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes/driver/aes.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes/driver/aes_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_aes_dual_core/driver/aes_dual_core_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_cpi/driver/cpi.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_cpi/driver/cpi_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_csi2/driver/csi2.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_csi2/driver/csi2_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_octospi/driver/octospi.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_sdio/driver/sdio_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_uart/driver/uart.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_uart/driver/uart_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_fifo/driver/udma_fifo.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/quiddikey/driver/quiddikey_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_team.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/uart_cl_internal.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cl_dma_decompressor.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/ctors_dtors.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/eeprom/24XX1025.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/eeprom/virtual_eeprom.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/hyperram/hyperram.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/spiram/aps256xxn.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/ram.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ram/alloc_extern.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/hyperflash/hyperflash.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/spiflash/mx25u51245g.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/sdcard/sdcard.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/spiflash/atxp032.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/flash.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/partition.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/flash_partition.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/flash_partition_v2.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/partition/secret_storage.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/crc/md5.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/flash/mram/mram-v2.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/himax/himax.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov5647/ov5647.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov9281/ov9281.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/ov9750/ov9750.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/camera/camera.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/vfs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/lfs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/lfs_util.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/lfs/pi_lfs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/read_fs/read_fs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/host_fs/host_fs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/fs/fs.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/ota.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/ota_utility.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/ota/updater.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/bootloader/bootloader_utility.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/crc/crc32.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/bsp/bsp/gap9_v2.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/pi_log.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/event_kernel/event_kernel.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/mem_slab/mem_slab.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/os/device.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/rtos/os/pmsis_evt.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/alloc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/alloc_pool.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/malloc/pi_malloc.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/pmsis/backend/pmsis_backend_native_task_api.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/libs/printf/printf.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/list.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/queue.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/tasks.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/timers.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/event_groups.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/stream_buffer.o
+LOAD /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/config/FreeRTOS_util.o
+LOAD /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/../../../../riscv32-unknown-elf/lib/rv32imcxgap9/ilp32/libm.a
+LOAD /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a
+                0x0000000000001000                __STACK_FC_SIZE = 0x1000
+                0x0000000000000800                __STACK_IRQ_SIZE = 0x800
+
+.data_tiny_fc   0x0000000000000004      0x4fc load address 0x000000001c000004
+                0x0000000000000010                . = ALIGN (0x10)
+ *fill*         0x0000000000000004        0xc 
+ *(.data_tiny_fc)
+ .data_tiny_fc  0x0000000000000010       0x20 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .data_tiny_fc  0x0000000000000030      0x4d0 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x0000000000000030                pi_pmu_soc_voltage
+                0x0000000000000034                __pi_fll.lto_priv.128
+                0x0000000000000054                __pi_udma_chan_lin
+                0x000000000000005c                fc_event_handlers
+                0x00000000000002a8                fc_event_handler_args
+                0x00000000000004f4                __pi_pmu_sleep_slow_clk_only
+                0x00000000000004f8                __pi_pmu_sleep_ctrl
+                0x00000000000004fc                __pi_pmu_reboot_value.lto_priv.155
+ *(.data_tiny_fc.*)
+ *(.fcTcdmTiny)
+ *(.fcTcdmTiny.*)
+                0x0000000000000500                . = ALIGN (0x10)
+
+.boot           0x000000001c000500        0x0
+                0x000000001c000500                . = ALIGN (0x10)
+ *(.boot)
+ *(.boot.*)
+                0x000000001c000500                . = ALIGN (0x10)
+
+.ctors          0x000000001c000500       0x18
+                0x000000001c000500                . = ALIGN (0x10)
+                0x000000001c000500                __CTOR_LIST__ = .
+                0x000000001c000500        0x4 LONG 0x4 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(SORT(.init_array.*))
+ .init_array.00101
+                0x000000001c000504        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .init_array.00111
+                0x000000001c000508        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .init_array.00112
+                0x000000001c00050c        0x4 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .init_array.00113
+                0x000000001c000510        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ *(.init_array)
+                0x000000001c000514        0x4 LONG 0x0
+                0x000000001c000518                __CTOR_END__ = .
+
+.dtors          0x000000001c000518       0x20
+                0x000000001c000520                . = ALIGN (0x10)
+ *fill*         0x000000001c000518        0x8 
+                0x000000001c000520                __DTOR_LIST__ = .
+                0x000000001c000520        0x4 LONG 0x4 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(SORT(.fini_array.*))
+ .fini_array.00101
+                0x000000001c000524        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .fini_array.00111
+                0x000000001c000528        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .fini_array.00112
+                0x000000001c00052c        0x4 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .fini_array.00113
+                0x000000001c000530        0x4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ *(.fini_array)
+                0x000000001c000534        0x4 LONG 0x0
+                0x000000001c000538                __DTOR_END__ = .
+
+.data_fc        0x000000001c000538      0x298
+                0x000000001c000538                . = ALIGN (0x4)
+                0x000000001c000538                __printf_lock_ptr_l2 = .
+                0x000000001c00053c                . = (__printf_lock_ptr_l2 + 0x4)
+ *fill*         0x000000001c000538        0x4 
+                0x000000001c000540                . = ALIGN (0x10)
+ *fill*         0x000000001c00053c        0x4 
+                0x000000001c000540                sdata = .
+                0x000000001c000540                _sdata = .
+ *(.sdata)
+ .sdata         0x000000001c000540       0x10 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .sdata         0x000000001c000550       0x10 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c000554                tick_us
+ *(.sdata.*)
+ *(.data_fc)
+ .data_fc       0x000000001c000560      0x26c /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c000560                default_sched
+ *(.data_fc.*)
+ *(.fcTcdm)
+ *(.fcTcdm.*)
+ *(.fcTcdm_g)
+ *(.fcTcdm_g.*)
+ *(.heapfcram)
+ *(.heapfcram.*)
+                0x000000001c0007d0                . = ALIGN (0x10)
+ *fill*         0x000000001c0007cc        0x4 
+                0x000000001c0007d0                edata = .
+                0x000000001c0007d0                _edata = .
+
+.stack_irq      0x000000001c0007d0      0x800
+                0x000000001c0007d0                . = ALIGN (0x10)
+                0x000000001c0007d0                __fc_bss_start__ = .
+                0x000000001c0007d0                __fc_bss_end__ = .
+                0x000000001c0007d0                __stack_irq_end__ = .
+                0x000000001c000fd0                . = (. + __STACK_IRQ_SIZE)
+ *fill*         0x000000001c0007d0      0x800 
+                0x000000001c000fd0                __stack_irq_start__ = .
+                0x000000001c000fd0                . = ALIGN (0x10)
+                0x000000001c000fd0                __heapfcram_start = .
+                0x000000000000f030                __heapfcram_size = ((ORIGIN (L2_priv0) + LENGTH (L2_priv0)) - __heapfcram_start)
+
+.vectors_irq    0x000000001c010000       0x94
+                0x000000001c010000                . = ALIGN (0x100)
+                0x000000001c010000                __irq_vector_base_m__ = .
+ *(.vectors_irq)
+ .vectors_irq   0x000000001c010000       0x94 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+                0x000000001c010090                __rt_debug_struct_ptr
+
+.cluster_vectors_irq
+                0x000000001c010094       0x6c
+                0x000000001c010100                . = ALIGN (0x100)
+ *fill*         0x000000001c010094       0x6c 
+                0x000000001c010100                __irq_cluster_vector_base_m__ = .
+ *(.cluster_vectors_irq)
+
+.text_l2        0x000000001c010100      0xb58
+                0x000000001c010100                . = ALIGN (0x10)
+ *(.text.text_l2.reset)
+ .text.text_l2.reset
+                0x000000001c010100       0xe4 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+                0x000000001c010100                _start
+                0x000000001c01019c                __main
+                0x000000001c0101ce                __printf_uart_close
+ *(.text.text_l2.reset.*)
+ *(.text.text_l2)
+ .text.text_l2  0x000000001c0101e4      0x2a8 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+                0x000000001c0101e4                mcause_check
+                0x000000001c0102f0                pi_irq_handler_wrapper
+                0x000000001c010328                asm_do_yield
+                0x000000001c010394                pendSV_handler
+                0x000000001c0103fc                systick_handler
+                0x000000001c010400                fc_event_handler
+                0x000000001c010428                pmu_event_handler
+                0x000000001c010450                ecall_handler
+                0x000000001c01047a                default_handler
+                0x000000001c01047e                ill_ins_handler
+ .text.text_l2  0x000000001c01048c       0x50 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+                0x000000001c01048c                __pi_timer_fc_0_1_irq_handler
+                0x000000001c0104b4                __pi_timer_fc_1_1_irq_handler
+ .text.text_l2  0x000000001c0104dc       0x3a /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+                0x000000001c0104dc                __pi_hyperbus_0_irq_handler
+                0x000000001c0104ec                __pi_hyperbus_1_irq_handler
+ .text.text_l2  0x000000001c010516      0x124 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+                0x000000001c010516                ASM_FUNC_SAVE_MINIMAL_CONTEXT
+                0x000000001c01055a                ASM_FUNC_RESTORE_MINIMAL_CONTEXT
+                0x000000001c01059e                ASM_FUNC_SAVE_SAVE_CONTEXT
+                0x000000001c0105b8                ASM_FUNC_RESTORE_SAVE_CONTEXT
+                0x000000001c0105d2                ASM_FUNC_SAVE_CSR_CONTEXT
+                0x000000001c0105e0                ASM_FUNC_RESTORE_CSR_CONTEXT
+                0x000000001c0105ee                ASM_FUNC_SAVE_ADDITIONAL_CONTEXT
+                0x000000001c010614                ASM_FUNC_RESTORE_ADDITIONAL_CONTEXT
+ *(.text.text_l2.*)
+ .text_l2       0x000000001c01063a      0x3fa /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c01063a                pos_mram_handle_event.lto_priv.120
+                0x000000001c0108ec                __pi_pmu_scu_handler
+                0x000000001c0109aa                __pi_fll_freq_set.lto_priv.121
+ .text_l2       0x000000001c010a34      0x224 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c010a34                mram_erase_sector_async.lto_priv.209
+                0x000000001c010a90                mram_erase_chip_async.lto_priv.210
+                0x000000001c010ae0                pi_freq_set.constprop.51
+                0x000000001c010b40                mram_erase_resume.lto_priv.204
+                0x000000001c010bba                mram_erase_async.lto_priv.208
+                0x000000001c010c0a                mram_program_resume.lto_priv.203
+
+.text           0x000000001c010c58    0x104d8
+                0x000000001c010c60                . = ALIGN (0x10)
+ *fill*         0x000000001c010c58        0x8 
+                0x000000001c010c60                _stext = .
+ *(.text.reset)
+ *(.text)
+ .text          0x000000001c010c60     0x7660 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c011e14                body.lto_priv.124
+                0x000000001c012704                __pi_cl_decompressor_handler
+                0x000000001c0128b8                __pi_sdio_irq_handler
+                0x000000001c012a48                pi_octospi1_handler
+                0x000000001c012b34                pi_octospi0_handler
+                0x000000001c012c20                __pi_hyper_copy_2d
+                0x000000001c01342c                __pi_hyper_handler_irq
+                0x000000001c0134ca                __pi_gpio_handler
+                0x000000001c0135ba                pi_cl_send_task_to_fc
+                0x000000001c01378a                __pi_pmu_change_domain_power_async.lto_priv.125
+                0x000000001c013868                fc_soc_event_handler
+                0x000000001c01388c                __pi_rtc_handler
+                0x000000001c0138e4                __pi_rtc_apb_handler
+                0x000000001c0138ea                __pi_timer_fc_1_1_handler
+                0x000000001c0139ea                __pi_timer_fc_0_1_handler
+                0x000000001c013ae0                memmove
+                0x000000001c013b06                free
+                0x000000001c013b0a                malloc
+                0x000000001c013b0e                strrchr
+                0x000000001c013b26                strstr
+                0x000000001c013bc2                strchr
+                0x000000001c013bde                strcspn
+                0x000000001c013c06                strspn
+                0x000000001c013c3e                strncpy
+                0x000000001c013c66                strcpy
+                0x000000001c013c88                strcat
+                0x000000001c013cba                strlen
+                0x000000001c013cd6                strncmp
+                0x000000001c013d12                strcmp
+                0x000000001c013d48                memset
+                0x000000001c013d5c                calloc
+                0x000000001c013d7a                memcpy
+                0x000000001c0148e8                memcmp
+                0x000000001c014918                __stdout_putc.lto_priv.123
+                0x000000001c014930                puts
+                0x000000001c014962                system_exit
+                0x000000001c0149b6                exit
+                0x000000001c014a72                setup_systick_in_timer
+                0x000000001c014a9a                deallocate_init_stack
+                0x000000001c014aa6                system_printf_uart_close
+                0x000000001c014aa8                system_init_finalize
+                0x000000001c014c0e                system_init
+                0x000000001c014e18                _ill_insn_print
+                0x000000001c014e24                xip_data_exception_handler
+                0x000000001c014e60                xip_insn_exception_handler
+                0x000000001c014ec4                pmp_exception_handler
+                0x000000001c014ee6                vSetPendSV
+                0x000000001c014f4c                pi_cl_team_barrier.lto_priv.122
+                0x000000001c016872                dma_transfer_async
+ .text          0x000000001c0182c0     0x50b8 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c019022                __pi_read_fs_ls.lto_priv.175
+                0x000000001c019028                __pi_host_fs_dir_read.lto_priv.194
+                0x000000001c01902e                __pi_read_fs_dir_close.lto_priv.177
+                0x000000001c019030                __pi_host_fs_dir_close.lto_priv.193
+                0x000000001c019032                __pi_read_fs_dir_open.lto_priv.176
+                0x000000001c019036                __pi_host_fs_dir_open.lto_priv.192
+                0x000000001c01903a                __pi_host_fs_remove.lto_priv.190
+                0x000000001c019040                __pi_host_fs_mkdir.lto_priv.189
+                0x000000001c019046                __pi_host_fs_ls.lto_priv.191
+                0x000000001c01904c                __pi_host_fs_seek.lto_priv.200
+                0x000000001c019068                __pi_host_fs_unmount.lto_priv.188
+                0x000000001c01906a                __pi_host_fs_mount.lto_priv.187
+                0x000000001c019076                __pi_read_fs_dir_read.lto_priv.178
+                0x000000001c01907c                __pi_read_fs_remove.lto_priv.174
+                0x000000001c019082                __pi_read_fs_mkdir.lto_priv.173
+                0x000000001c019088                __pi_read_fs_copy_2d_async.lto_priv.186
+                0x000000001c0190a2                __pi_read_fs_copy_async.lto_priv.185
+                0x000000001c0195b6                __pi_read_fs_seek.lto_priv.184
+                0x000000001c0195d2                __pi_read_fs_write.lto_priv.183
+                0x000000001c019624                mram_copy_2d_async.lto_priv.205
+                0x000000001c0196bc                mram_read_async.lto_priv.206
+                0x000000001c01971a                store_output_async.isra.4.constprop.112
+                0x000000001c019786                store_output_async.isra.4.constprop.104
+                0x000000001c0197f2                pi_max_freq_get.constprop.50
+                0x000000001c019824                pulp_nn_avgpool_u8_u8.constprop.40
+                0x000000001c01996a                __pi_rtc_apb_reg_read.constprop.27
+                0x000000001c0199d6                printf_
+                0x000000001c01a088                system_setup_systick.constprop.30
+                0x000000001c01a30e                xTaskIncrementTick.part.9
+                0x000000001c01a85e                xQueueSemaphoreTake.constprop.74
+                0x000000001c01ab88                vTaskSwitchContext
+                0x000000001c01acde                prvSetupTimerInterrupt
+                0x000000001c01ace2                pi_l2_priv_malloc
+                0x000000001c01ad3a                pi_l2_malloc
+                0x000000001c01adb8                pi_malloc
+                0x000000001c01add2                pi_cl_l1_malloc
+                0x000000001c01ae38                pos_alloc_account_free.part.2
+                0x000000001c01ae3e                pos_free
+                0x000000001c01af0a                pi_l2_priv_free
+                0x000000001c01af50                pi_l2_free
+                0x000000001c01af9c                pi_free
+                0x000000001c01afee                __pi_host_fs_close.lto_priv.196
+                0x000000001c01b006                __pi_read_fs_close.lto_priv.180
+                0x000000001c01b086                __pi_read_fs_unmount.lto_priv.172
+                0x000000001c01b116                pos_alloc_init
+                0x000000001c01b13e                __pi_evt_release
+                0x000000001c01b23a                __pi_evt_wait
+                0x000000001c01b264                __pi_evt_sig_init
+                0x000000001c01b286                pi_hyper_write.constprop.21
+                0x000000001c01b806                pi_evt_kernel_push_event
+                0x000000001c01bc0c                pi_time_wait_us
+                0x000000001c01bc42                pi_evt_push_delayed_us
+                0x000000001c01bfd8                __pi_host_fs_write_async.lto_priv.199
+                0x000000001c01c06c                __pi_host_fs_direct_read_async.lto_priv.198
+                0x000000001c01c102                __pi_host_fs_copy_async.lto_priv.201
+                0x000000001c01c142                __pi_host_fs_read_async.lto_priv.197
+                0x000000001c01c144                __pi_read_fs_seek_and_read.lto_priv.182
+                0x000000001c01c1f2                __pi_read_fs_direct_read_async.lto_priv.181
+                0x000000001c01c28a                pi_fs_read
+                0x000000001c01c2c4                __pi_host_fs_copy_2d_async.lto_priv.202
+                0x000000001c01c41a                mram_program_async.lto_priv.207
+                0x000000001c01c510                xQueueGenericSend.constprop.80
+                0x000000001c01cad4                __os_init
+                0x000000001c01ccae                __pi_host_fs_open.lto_priv.195
+                0x000000001c01cd40                __pi_read_fs_open.lto_priv.179
+                0x000000001c01d2fa                __pi_read_fs_mount.lto_priv.171
+ .text          0x000000001c01d378       0x9a /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+                0x000000001c01d378                xPortStartScheduler
+ .text          0x000000001c01d412      0x372 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+                0x000000001c01d412                __divdi3
+ .text          0x000000001c01d784      0x33c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+                0x000000001c01d784                __udivdi3
+ .text          0x000000001c01dac0      0x32e /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+                0x000000001c01dac0                __umoddi3
+ .text          0x000000001c01ddee      0x84a /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+                0x000000001c01ddee                __adddf3
+ .text          0x000000001c01e638      0x604 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+                0x000000001c01e638                __divdf3
+ .text          0x000000001c01ec3c       0x90 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+                0x000000001c01ec3c                __eqdf2
+                0x000000001c01ec3c                __nedf2
+ .text          0x000000001c01eccc       0xa8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+                0x000000001c01eccc                __gtdf2
+                0x000000001c01eccc                __gedf2
+ .text          0x000000001c01ed74       0xa8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+                0x000000001c01ed74                __ltdf2
+                0x000000001c01ed74                __ledf2
+ .text          0x000000001c01ee1c      0x566 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+                0x000000001c01ee1c                __muldf3
+ .text          0x000000001c01f382      0x874 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+                0x000000001c01f382                __subdf3
+ .text          0x000000001c01fbf6       0xb8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+                0x000000001c01fbf6                __fixdfsi
+ .text          0x000000001c01fcae       0x8e /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+                0x000000001c01fcae                __fixunsdfsi
+ .text          0x000000001c01fd3c       0x58 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+                0x000000001c01fd3c                __floatsidf
+ .text          0x000000001c01fd94       0x4c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+                0x000000001c01fd94                __floatunsidf
+ .text          0x000000001c01fde0       0xa4 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+                0x000000001c01fde0                __extendsfdf2
+ *(.text.*)
+ .text.exit     0x000000001c01fe84      0x478 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .text.startup  0x000000001c0202fc      0xd7e /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c0208d0                main
+ .text.exit     0x000000001c02107a       0x8c /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .text.startup  0x000000001c021106       0x1e /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c021130                . = ALIGN (0x10)
+ *fill*         0x000000001c021124        0xc 
+                0x000000001c021130                __cluster_text_start = .
+ *(.text.cluster)
+ *(.text.cluster.*)
+                0x000000001c021130                __cluster_text_end = .
+                0x000000001c021130                . = ALIGN (0x10)
+                0x000000001c021130                _etext = .
+ *(.lit)
+ *(.shdata)
+                0x000000001c021130                . = ALIGN (0x10)
+                0x000000001c021130                _endtext = .
+
+.cluster.text   0x000000001c021130      0x2fe
+ .cluster.text  0x000000001c021130      0x2a0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+                0x000000001c021130                pi_cl_entry
+                0x000000001c0212f4                pi_cl_pe_set_stack
+                0x000000001c02136e                pi_irq_cl_handler
+ .cluster.text  0x000000001c0213d0       0x5e /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+                0x000000001c0213d0                pi_cl_pe_entry
+                0x000000001c021412                pi_cl_pe_wait_for_dispatch
+
+.rodata         0x000000001c021430      0xe08
+                0x000000001c021430                . = ALIGN (0x10)
+ *(.rodata)
+ .rodata        0x000000001c021430      0x158 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .rodata        0x000000001c021588       0x50 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .rodata        0x000000001c0215d8       0x3c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .rodata        0x000000001c021614       0x3c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .rodata        0x000000001c021650      0x100 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+                0x000000001c021650                __clz_tab
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000001c021750      0x4b4 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                                        0x4b8 (size before relaxing)
+ .rodata.str1.4
+                0x000000001c021c04      0x50c /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                                        0x510 (size before relaxing)
+                0x000000001c022110                . = ALIGN (0x10)
+ *(.srodata)
+ *(.srodata.*)
+ .srodata.cst4  0x000000001c022110       0x18 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .srodata.cst8  0x000000001c022128       0x98 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ *(.eh_frame*)
+ .eh_frame      0x000000001c0221c0       0x28 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .eh_frame      0x000000001c0221e8       0x28 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .eh_frame      0x000000001c022210       0x28 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ *(.eh_frame.*)
+
+.rela.dyn       0x000000001c022238        0x0
+ .rela.text.text_l2
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.text.text_l2.reset
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.vectors_irq
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.cluster.text
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.text     0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.data     0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.text_l2  0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.text.exit
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .rela.text.startup
+                0x000000001c022238        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+
+.shbss          0x000000001c022238        0x8
+                0x000000001c022240                . = ALIGN (0x10)
+ *fill*         0x000000001c022238        0x8 
+ *(.shbss)
+ *(.shbss.*)
+
+.data           0x000000001c022240      0x28c
+                0x000000001c022240                . = ALIGN (0x10)
+                0x000000001c022240                __data_start__ = .
+ *(.data)
+ .data          0x000000001c022240      0x204 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c0222f8                _ecall_vector
+                0x000000001c022344                pi_irq_cl_handlers
+                0x000000001c0223c4                __pi_cl_irq_handlers
+ .data          0x000000001c022444       0x88 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c0224c4                __pi_pmu_sleep_enter.lto_priv.156
+                0x000000001c0224c8                irq.53807.lto_priv.154
+ *(.data.*)
+ *(.l2_data)
+ *(.l2_data.*)
+ *(.data_fc_shared)
+ *(.data_fc_shared.*)
+ *(.heapl2ram)
+ *(.heapl2ram.*)
+                0x000000001c0224cc                __data_end__ = .
+
+.bss            0x000000001c0224d0      0x6a0
+                0x000000001c0224d0                . = ALIGN (0x10)
+                0x000000001c0224d0                __bss_start__ = .
+ *(.bss)
+ .bss           0x000000001c0224d0      0x258 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .bss           0x000000001c022728      0x2a8 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c022780                sys_timer_hi_prec
+                0x000000001c022790                g_timer_data.lto_priv.129
+                0x000000001c022890                pos_alloc_l2
+                0x000000001c0228d8                pos_alloc_l1
+                0x000000001c022980                systick_evt_cb
+ *(.bss.*)
+ *(.sbss)
+ .sbss          0x000000001c0229d0       0x58 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c0229d4                ulCriticalNesting
+                0x000000001c0229f4                __stack_fc_start__
+ .sbss          0x000000001c022a28       0x54 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+                0x000000001c022a30                g_cluster_open_close_mutex
+                0x000000001c022a4c                xPendedTicks.lto_priv.131
+                0x000000001c022a54                tick_rate.lto_priv.132
+                0x000000001c022a70                pxCurrentTCB
+                0x000000001c022a74                uxSchedulerSuspended.lto_priv.130
+ *(.sbss.*)
+ *(COMMON)
+ COMMON         0x000000001c022a7c       0xec /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000001c022a7c                pi_exception_vector
+                0x000000001c022abc                pi_cluster
+                0x000000001c022ae8                pi_irq_handler_wrapper_vector
+                0x000000001c022b70                . = ALIGN (0x10)
+ *fill*         0x000000001c022b68        0x8 
+                0x000000001c022b70                __bss_end__ = .
+                0x000000001c022b70                __l1_preload_start_inL2 = .
+
+.data_tiny_l1   0x0000000000000004       0x4c load address 0x000000001c022b70
+                0x0000000000000004                . = ALIGN (0x4)
+                0x0000000000000004                __l1_preload_start = .
+ *(.data_tiny_l1)
+ *(.data_tiny_l1.*)
+ *(.data_alias_l1)
+ *(.data_alias_l1.*)
+ *(.l1clusterTiny)
+ .l1clusterTiny
+                0x0000000000000004       0x4c /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                0x000000000000000c                __pi_cluster_pool
+                0x0000000000000044                __pi_cluster_pending_task
+                0x000000000000004c                __pi_cluster_nb_active_pe
+ *(.l1clusterTiny.*)
+                0x0000000000000050                . = ALIGN (0x10)
+                0x0000000000000050                __data_tiny_l1_end = .
+
+.l1cluster_g    0x0000000010000050       0x10 load address 0x000000001c022bbc
+                0x0000000010000050                . = ALIGN (0x10)
+                0x0000000010000050                __printf_lock_ptr_l1 = .
+                0x0000000010000054                . = (__printf_lock_ptr_l1 + 0x4)
+ *fill*         0x0000000010000050        0x4 
+ *(.l1cluster_g)
+ *(.l1cluster_g.*)
+ *(.data_l1)
+ *(.data_l1.*)
+ *(.heapsram)
+ *(.heapsram.*)
+                0x0000000010000060                . = ALIGN (0x10)
+ *fill*         0x0000000010000054        0xc 
+                0x0000000010000060                __l1_preload_end = .
+                0x0000000010000070                __l1_heapsram_start = (__l1_preload_end + 0x10)
+                0x000000000001ff90                __l1_heapsram_size = ((ORIGIN (L1) + LENGTH (L1)) - __l1_heapsram_start)
+                0x0000000010020000                __l1_heapsram_end = (ORIGIN (L1) + LENGTH (L1))
+                0x000000000000005c                __l1_preload_size = (SIZEOF (.data_tiny_l1) + SIZEOF (.l1cluster_g))
+                0x000000001c022bcc                __heapl2ram_start = (LOADADDR (.l1cluster_g) + SIZEOF (.l1cluster_g))
+                0x000000000016d434                __heapl2ram_size = ((ORIGIN (L2_shared) + LENGTH (L2_shared)) - __heapl2ram_start)
+OUTPUT(/home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS/main elf32-littleriscv)
+
+.comment        0x0000000000000000       0x1a
+ .comment       0x0000000000000000       0x1a /tmp/cc2ZgBrR.ltrans0.ltrans.o
+                                         0x1b (size before relaxing)
+ .comment       0x000000000000001a       0x1b /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .comment       0x000000000000001a       0x1b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.Pulp_Chip.Info
+                0x0000000000000000       0x4e
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /tmp/cc2ZgBrR.ltrans0.ltrans.o
+ .Pulp_Chip.Info
+                0x0000000000000000        0x0 /tmp/cc2ZgBrR.ltrans1.ltrans.o
+ .Pulp_Chip.Info
+                0x0000000000000000       0x4e /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .Pulp_Chip.Info
+                0x000000000000004e        0x0 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.debug_line     0x0000000000000000     0x4ff4
+ .debug_line    0x0000000000000000      0x505 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .debug_line    0x0000000000000505      0x27b /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .debug_line    0x0000000000000780      0x4be /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .debug_line    0x0000000000000c3e       0xf8 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .debug_line    0x0000000000000d36      0x101 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .debug_line    0x0000000000000e37       0xf4 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .debug_line    0x0000000000000f2b       0xd7 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .debug_line    0x0000000000001002       0xb6 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .debug_line    0x00000000000010b8      0x4b2 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_line    0x000000000000156a      0x488 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_line    0x00000000000019f2      0x469 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000001e5b      0xa47 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_line    0x00000000000028a2      0x691 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_line    0x0000000000002f33      0x1fd /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_line    0x0000000000003130      0x229 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_line    0x0000000000003359      0x229 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_line    0x0000000000003582      0x512 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_line    0x0000000000003a94      0xa6e /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_line    0x0000000000004502      0x1e1 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_line    0x00000000000046e3      0x1ad /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_line    0x0000000000004890      0x15d /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_line    0x00000000000049ed      0x14b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_line    0x0000000000004b38      0x1be /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .debug_line    0x0000000000004cf6      0x2fe /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.debug_info     0x0000000000000000     0x71bb
+ .debug_info    0x0000000000000000       0xd5 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .debug_info    0x00000000000000d5       0xd5 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .debug_info    0x00000000000001aa       0xd1 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .debug_info    0x000000000000027b       0xd6 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .debug_info    0x0000000000000351       0xce /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .debug_info    0x000000000000041f       0xd9 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .debug_info    0x00000000000004f8       0xbb /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .debug_info    0x00000000000005b3       0xe2 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .debug_info    0x0000000000000695     0x115c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_info    0x00000000000017f1     0x112a /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_info    0x000000000000291b     0x1187 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_info    0x0000000000003aa2      0x59d /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_info    0x000000000000403f      0x713 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_info    0x0000000000004752      0x274 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_info    0x00000000000049c6      0x261 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_info    0x0000000000004c27      0x261 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_info    0x0000000000004e88      0x742 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_info    0x00000000000055ca      0x59d /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_info    0x0000000000005b67      0x1fd /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_info    0x0000000000005d64      0x1e9 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_info    0x0000000000005f4d      0x29b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_info    0x00000000000061e8      0x28f /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_info    0x0000000000006477      0x2a7 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .debug_info    0x000000000000671e      0xa9d /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.debug_abbrev   0x0000000000000000     0x1b3e
+ .debug_abbrev  0x0000000000000000       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .debug_abbrev  0x0000000000000014       0x12 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .debug_abbrev  0x0000000000000026       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .debug_abbrev  0x000000000000003a       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .debug_abbrev  0x000000000000004e       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .debug_abbrev  0x0000000000000062       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .debug_abbrev  0x0000000000000076       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .debug_abbrev  0x000000000000008a       0x14 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .debug_abbrev  0x000000000000009e      0x2a8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x0000000000000346      0x292 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000005d8      0x2ac /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000884      0x178 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_abbrev  0x00000000000009fc      0x170 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_abbrev  0x0000000000000b6c      0x18f /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_abbrev  0x0000000000000cfb      0x166 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_abbrev  0x0000000000000e61      0x166 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_abbrev  0x0000000000000fc7      0x177 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_abbrev  0x000000000000113e      0x178 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_abbrev  0x00000000000012b6      0x15b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000001411      0x159 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_abbrev  0x000000000000156a      0x161 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_abbrev  0x00000000000016cb      0x161 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_abbrev  0x000000000000182c      0x154 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .debug_abbrev  0x0000000000001980      0x1be /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.debug_aranges  0x0000000000000000      0x300
+ .debug_aranges
+                0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.o
+ .debug_aranges
+                0x0000000000000020       0x28 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .debug_aranges
+                0x0000000000000048       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-cc.o
+ .debug_aranges
+                0x0000000000000068       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/cluster/driver/cluster-pe-team.o
+ .debug_aranges
+                0x0000000000000088       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/timer/driver/timer_asm.o
+ .debug_aranges
+                0x00000000000000a8       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/chips/gap9/udma_hyperbus/driver/hyperbus_asm.o
+ .debug_aranges
+                0x00000000000000c8       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/implem/utils/asm_util.o
+ .debug_aranges
+                0x00000000000000e8       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/freertos_kernel/portable/GCC/RI5CY-GAP9/port_asm.o
+ .debug_aranges
+                0x0000000000000108       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x0000000000000128       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000148       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000168       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_aranges
+                0x0000000000000188       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_aranges
+                0x00000000000001a8       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x00000000000001c8       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_aranges
+                0x00000000000001e8       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_aranges
+                0x0000000000000208       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_aranges
+                0x0000000000000228       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_aranges
+                0x0000000000000248       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x0000000000000268       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_aranges
+                0x0000000000000288       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_aranges
+                0x00000000000002a8       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_aranges
+                0x00000000000002c8       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+ .debug_aranges
+                0x00000000000002e8       0x18 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
+
+.debug_ranges   0x0000000000000000      0xce0
+ .debug_ranges  0x0000000000000000       0x20 /home/lanmei/dory/dory/dory_examples/application/1218_D2_15_mixedSW_final_MIBMINet/BUILD/GAP9_V2/GCC_RISCV_FREERTOS//home/lanmei/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.o
+ .debug_ranges  0x0000000000000020       0xe8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000000000000108      0x100 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x0000000000000208       0xc8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x00000000000002d0      0x268 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_ranges  0x0000000000000538      0x160 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_ranges  0x0000000000000698       0x50 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_ranges  0x00000000000006e8       0x58 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_ranges  0x0000000000000740       0x58 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_ranges  0x0000000000000798      0x1e8 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_ranges  0x0000000000000980      0x280 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_ranges  0x0000000000000c00       0x38 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_ranges  0x0000000000000c38       0x18 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_ranges  0x0000000000000c50       0x48 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_ranges  0x0000000000000c98       0x48 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+
+.debug_frame    0x0000000000000000      0x270
+ .debug_frame   0x0000000000000000       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000020       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000000000000040       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_frame   0x0000000000000060       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000000080       0x5c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_frame   0x00000000000000dc       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_frame   0x00000000000000fc       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_frame   0x000000000000011c       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_frame   0x000000000000013c       0x74 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_frame   0x00000000000001b0       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_frame   0x00000000000001d0       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000000000001f0       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_frame   0x0000000000000210       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000230       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000000000000250       0x20 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+
+.debug_loc      0x0000000000000000     0x7faf
+ .debug_loc     0x0000000000000000      0x98c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000098c      0xb09 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000001495      0x959 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000001dee     0x1824 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+ .debug_loc     0x0000000000003612     0x12bf /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+ .debug_loc     0x00000000000048d1      0x122 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+ .debug_loc     0x00000000000049f3      0x1b7 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+ .debug_loc     0x0000000000004baa      0x1b7 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+ .debug_loc     0x0000000000004d61      0xf9b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+ .debug_loc     0x0000000000005cfc     0x19d1 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+ .debug_loc     0x00000000000076cd      0x27c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+ .debug_loc     0x0000000000007949      0x22e /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+ .debug_loc     0x0000000000007b77      0x10b /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+ .debug_loc     0x0000000000007c82      0x156 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+ .debug_loc     0x0000000000007dd8      0x1d7 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+
+.debug_str      0x0000000000000000     0x1229
+ .debug_str     0x0000000000000000      0x7e4 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_divdi3.o)
+                                        0x864 (size before relaxing)
+ .debug_str     0x00000000000007e4        0xa /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_udivdi3.o)
+                                        0x865 (size before relaxing)
+ .debug_str     0x00000000000007ee        0xa /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_umoddi3.o)
+                                        0x865 (size before relaxing)
+ .debug_str     0x00000000000007f8      0x262 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(adddf3.o)
+                                        0x37c (size before relaxing)
+ .debug_str     0x0000000000000a5a      0x1c9 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(divdf3.o)
+                                        0x43e (size before relaxing)
+ .debug_str     0x0000000000000c23       0x84 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(eqdf2.o)
+                                        0x296 (size before relaxing)
+ .debug_str     0x0000000000000ca7       0x89 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(gedf2.o)
+                                        0x2ba (size before relaxing)
+ .debug_str     0x0000000000000d30       0x65 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(ledf2.o)
+                                        0x2ba (size before relaxing)
+ .debug_str     0x0000000000000d95      0x18c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(muldf3.o)
+                                        0x496 (size before relaxing)
+ .debug_str     0x0000000000000f21       0x67 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(subdf3.o)
+                                        0x37c (size before relaxing)
+ .debug_str     0x0000000000000f88       0x7c /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixdfsi.o)
+                                        0x293 (size before relaxing)
+ .debug_str     0x0000000000001004       0x6f /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(fixunsdfsi.o)
+                                        0x292 (size before relaxing)
+ .debug_str     0x0000000000001073       0x9a /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatsidf.o)
+                                        0x329 (size before relaxing)
+ .debug_str     0x000000000000110d       0x71 /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(floatunsidf.o)
+                                        0x326 (size before relaxing)
+ .debug_str     0x000000000000117e       0xab /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(extendsfdf2.o)
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x0000000000001229      0x7ac /home/lanmei/gap_riscv_toolchain/bin/../lib/gcc/riscv32-unknown-elf/7.1.1/rv32imcxgap9/ilp32/libgcc.a(_clz.o)
