@@ -32,9 +32,9 @@ struct network_run_token {
 void network_terminate();
 void network_initialize();
 void network_run_cluster(void * args);
-struct network_run_token network_run_async(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, int exec, int initial_dir);
+struct network_run_token network_run_async(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, void *FC_layer_weights_int8, int exec, int initial_dir);
 void network_run_wait(struct network_run_token token);
-void network_run(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, int exec, int initial_dir);
+void network_run(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, void *FC_layer_weights_int8, int exec, int initial_dir);
 void execute_layer_fork(void *arg);
 
 
@@ -54,7 +54,7 @@ static int branch_input[7] = {0, 0, 0, 0, 0, 0, 0};
 static int branch_output[7] = {0, 0, 0, 0, 0, 0, 0};
 static int branch_change[7] = {0, 0, 0, 0, 0, 0, 0};
 static int weights_checksum[7] = {45279, 546409, 0, 71906, 152587, 0, 239732};
-static int weights_size[7] = {512, 4352, 0, 768, 1280, 0, 1864};
+static int weights_size[7] = {512, 4352, 0, 768, 1280, 0, 1864}; // 1856 last layer weights
 static int activations_checksum[7][1] = {{
   12104  },
 {

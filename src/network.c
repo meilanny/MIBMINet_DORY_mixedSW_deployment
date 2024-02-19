@@ -73,7 +73,7 @@ void network_terminate() {
 void execute_layer_fork(void *args) {
   layer_args_t *layer_args = (layer_args_t *)args;
 #ifdef TARGET_CHIP_FAMILY_GAP9
-  layer_args->L1_buffer = pi_cl_l1_malloc(NULL, 92700);
+  layer_args->L1_buffer = pi_cl_l1_malloc(NULL, 92700); // 92700
 #else
   layer_args->L1_buffer = pmsis_l1_malloc(92700);
 #endif
@@ -111,13 +111,14 @@ void execute_layer_fork(void *args) {
   }
 
 #ifdef TARGET_CHIP_FAMILY_GAP9
-  pi_cl_l1_free(NULL, layer_args->L1_buffer, 92700);
+  //pi_cl_l1_free(NULL, layer_args->L1_buffer, 78000);
+  pi_cl_l1_free((void *) 0, layer_args->L1_buffer, 92700);
 #else
   pmsis_l1_malloc_free(layer_args->L1_buffer, 92700);
 #endif
 }
 
-struct network_run_token network_run_async(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, int exec, int initial_dir)
+struct network_run_token network_run_async(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, void *FC_layer_weights_int8, int exec, int initial_dir)
 {
   struct pi_device cluster_dev = {0};
   struct pi_cluster_conf conf;
@@ -128,37 +129,87 @@ struct network_run_token network_run_async(void *l2_buffer, size_t l2_buffer_siz
 #ifdef TARGET_CHIP_FAMILY_GAP9
   conf.icache_conf = PI_CLUSTER_MASTER_CORE_ICACHE_ENABLE | PI_CLUSTER_ICACHE_PREFETCH_ENABLE | PI_CLUSTER_ICACHE_ENABLE;
 #endif
+
+  pi_open_from_conf(&cluster_dev, &conf);
+  if (pi_cluster_open(&cluster_dev))
+    return;
+
   unsigned int args[4];
   args[0] = (unsigned int) l2_buffer;
   args[1] = (unsigned int) l2_buffer_size;
   args[2] = (unsigned int) l2_final_output;
-  args[3] = (unsigned int) exec;
-  args[4] = (unsigned int) initial_dir;
+  args[3] = (unsigned int) FC_layer_weights_int8;
+  args[4] = (unsigned int) exec;
+  args[5] = (unsigned int) initial_dir;
   // open cluster...
   pi_cluster_task(&cluster_task, network_run_cluster, args);
-  pi_open_from_conf(&cluster_dev, &conf);
-  if (pi_cluster_open(&cluster_dev))
-    return;
   // Then offload an entry point, this will get executed on the cluster controller
 #ifndef TARGET_CHIP_FAMILY_GAP9
   cluster_task.stack_size = 3500;
 #endif
   cluster_task.slave_stack_size = 3400;
   pi_cluster_send_task_to_cl(&cluster_dev, &cluster_task);
+
   return (struct network_run_token) {
     .cluster_dev = cluster_dev
   };
 }
 
+/*
+void network_run(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, void *FC_layer_weights_int8, int exec, int initial_dir)
+{
+  struct pi_device cluster_dev = {0};
+  struct pi_cluster_conf conf;
+  struct pi_cluster_task cluster_task = {0};
+  // First open the cluster
+  pi_cluster_conf_init(&conf);
+  conf.id=0;
+#ifdef TARGET_CHIP_FAMILY_GAP9
+  conf.icache_conf = PI_CLUSTER_MASTER_CORE_ICACHE_ENABLE | PI_CLUSTER_ICACHE_PREFETCH_ENABLE | PI_CLUSTER_ICACHE_ENABLE;
+#endif
+
+  pi_open_from_conf(&cluster_dev, &conf);
+  if (pi_cluster_open(&cluster_dev))
+    return;
+
+  unsigned int args[4];
+  args[0] = (unsigned int) l2_buffer;
+  args[1] = (unsigned int) l2_buffer_size;
+  args[2] = (unsigned int) l2_final_output;
+  args[3] = (unsigned int) FC_layer_weights_int8;
+  args[4] = (unsigned int) exec;
+  args[5] = (unsigned int) initial_dir;
+  // open cluster...
+  pi_cluster_task(&cluster_task, network_run_cluster, args);
+  // Then offload an entry point, this will get executed on the cluster controller
+#ifndef TARGET_CHIP_FAMILY_GAP9
+  cluster_task.stack_size = 3500;
+#endif
+  cluster_task.slave_stack_size = 3400;
+  pi_cluster_send_task_to_cl(&cluster_dev, &cluster_task);
+  pi_cluster_close(&cluster_dev);
+  #ifdef VERBOSE
+  print_perf("DORY Except FCN Final", cycle_network_execution, 2656768);
+  #endif
+
+  // WE CANNOT DO "cl_ram_read" HERE, CAN ONLY DO IN CLUSTER_TASK. Only ram_read here!
+  //ram_read(FC_layer_weights_int8, L3_weights+6912, weights_size[6]);
+  //checksum("FC_layer_weights_int8 weights", FC_layer_weights_int8, weights_size[6], weights_checksum[6]);
+
+}
+*/
+
 void network_run_wait(struct network_run_token token)
 {
   pi_cluster_close(&token.cluster_dev);
-  print_perf("Final", cycle_network_execution, 8634688);
+  #ifdef VERBOSE
+  print_perf("DORY Except FCN Final", cycle_network_execution, 8634688);
+  #endif
 }
 
-void network_run(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, int exec, int initial_dir)
+void network_run(void *l2_buffer, size_t l2_buffer_size, void *l2_final_output, void *FC_layer_weights_int8, int exec, int initial_dir)
 {
-  network_run_wait(network_run_async(l2_buffer, l2_buffer_size, l2_final_output, exec, initial_dir));
+  network_run_wait(network_run_async(l2_buffer, l2_buffer_size, l2_final_output, FC_layer_weights_int8, exec, initial_dir));
 }
 
 void network_run_cluster(void *args) {
@@ -166,8 +217,9 @@ void network_run_cluster(void *args) {
   void * l2_buffer = (void *) real_args[0];
   size_t l2_buffer_size = (size_t) real_args[1];
   void * l2_final_output = (void *) real_args[2];
-  int exec = (int) real_args[3];
-  int dir = (int) real_args[4];
+  void * FC_layer_weights_int8 = (void *) real_args[3];
+  int exec = (int) real_args[4];
+  int dir = (int) real_args[5];
 /*
   - initial buffer allocation L2 and L1
   - variable declaration
@@ -221,7 +273,8 @@ void network_run_cluster(void *args) {
   pi_perf_start();
 
   int weight_l_cnt = 0; // count how many layers with weights we have processed to increment the weights_L3 pointer
-  for (int i = 0; i < 7; i++) {
+  int num_layers_except_fcn = 6; // 7-1
+  for (int i = 0; i < num_layers_except_fcn; i++) {
 /* MEMORY ALLOCATION
   - allocate memory if layer is executed from L3;
   - allocate weights
@@ -355,6 +408,19 @@ void network_run_cluster(void *args) {
     }
     if (layer_with_weights[i])
        L3_weights_curr += L3_weights_size[weight_l_cnt++];
+
+    // Previous implementation of FC layer weights
+
+    //if (i == 5) {
+       //void *l2_weight_buffer = pi_l2_malloc(weights_size[6]); // in bytes
+
+       //cl_ram_read(FC_layer_weights_int8, L3_weights_curr, weights_size[6]);
+       //checksum("FC_layer_weights_int8 weights", FC_layer_weights_int8, weights_size[6], weights_checksum[6]);
+
+       //for (int j=0; j<weights_size[6]; j++)
+       //  *((int8_t*)(FC_layer_weights_int8+j)) = *((int8_t*)(l2_weight_buffer+j));
+    //}
+
     dir = !dir;
   }
 
@@ -365,6 +431,14 @@ void network_run_cluster(void *args) {
   //memcpy(L2_output, l2_final_output, activations_out_size[6]); // BUGGY!
   for (int i=0; i<activations_out_size[6]; i++)
     *((uint8_t*)(l2_final_output+i)) = *((uint8_t*)(L2_output+i));
+
+
+  // Can only do cl_ram_read inside the cluster task "network_run_cluster" function!
+  int FC_layer_weights_offset = 0;
+  for (int i=0; i<6; i++) FC_layer_weights_offset += weights_size[i];
+  cl_ram_read(FC_layer_weights_int8, L3_weights+FC_layer_weights_offset, weights_size[6]); // 6912
+  checksum("FC_layer_weights_int8 weights", FC_layer_weights_int8, weights_size[6], weights_checksum[6]);
+
 
 /* ---------------------------------- */
 /* --------- SECTION 2 END ---------- */
